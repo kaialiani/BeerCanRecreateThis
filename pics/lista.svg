@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e7e7e7;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #6f6f6f;
+        stroke-width: 1.4px;
+      }
+
+      .cls-3 {
+        fill: #6f6f6f;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: #6f6f6f;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-1112 1216)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="16" height="16" transform="translate(1112 -1216)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(21.069 22.514)">
+      <line id="Line_1" data-name="Line 1" class="cls-2" x2="12.971" transform="translate(1093.96 -1234.374)"/>
+      <line id="Line_3" data-name="Line 3" class="cls-2" x2="12.971" transform="translate(1093.96 -1227.299)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-2" x2="12.971" transform="translate(1093.96 -1230.837)"/>
+      <g id="Path_1" data-name="Path 1" class="cls-3" transform="translate(1090.931 -1235.202)">
+        <path class="cls-4" d="M0,0H1.631V1.624H0Z"/>
+        <path class="cls-5" d="M -8.344650268554688e-07 -1.430511474609375e-06 L 1.631179094314575 -1.430511474609375e-06 L 1.631179094314575 1.623838543891907 L -8.344650268554688e-07 1.623838543891907 L -8.344650268554688e-07 -1.430511474609375e-06 Z"/>
+      </g>
+      <g id="Path_2" data-name="Path 2" class="cls-3" transform="translate(1090.931 -1231.665)">
+        <path class="cls-4" d="M0,0H1.631V1.624H0Z"/>
+        <path class="cls-5" d="M -8.344650268554688e-07 -1.430511474609375e-06 L 1.631179094314575 -1.430511474609375e-06 L 1.631179094314575 1.623838543891907 L -8.344650268554688e-07 1.623838543891907 L -8.344650268554688e-07 -1.430511474609375e-06 Z"/>
+      </g>
+      <g id="Path_3" data-name="Path 3" class="cls-3" transform="translate(1090.931 -1228.127)">
+        <path class="cls-4" d="M0,0H1.631V1.624H0Z"/>
+        <path class="cls-5" d="M -8.344650268554688e-07 -1.430511474609375e-06 L 1.631179094314575 -1.430511474609375e-06 L 1.631179094314575 1.623838543891907 L -8.344650268554688e-07 1.623838543891907 L -8.344650268554688e-07 -1.430511474609375e-06 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

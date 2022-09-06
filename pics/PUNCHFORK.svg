@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="797" height="219" viewBox="0 0 797 219">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c1c1c;
+        font-size: 147px;
+        font-family: Bree-Semibold, Bree;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        font-family: Bree-Light, Bree;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <text id="PUNCHFORK" class="cls-1" transform="translate(0 170)"><tspan x="0" y="0">PUNCH</tspan><tspan class="cls-2" y="0">FORK</tspan></text>
+</svg>
